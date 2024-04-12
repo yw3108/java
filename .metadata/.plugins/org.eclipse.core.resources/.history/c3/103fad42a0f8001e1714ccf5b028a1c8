@@ -1,0 +1,10 @@
+package com.example.crypto;
+
+public class RandomExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
